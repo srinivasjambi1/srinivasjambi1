@@ -24,7 +24,7 @@ Performed exploratory data analysis (EDA) on a clinical diabetes dataset to unco
 #### **2️⃣ R Project – Diabetes Risk Factor Analysis**  
 **Tools:** R, ggplot2, dplyr, Logistic Regression, ANOVA, PCA  
 Investigated how demographic, lifestyle, and health indicators interact to predict diabetes risk. Achieved **96% model accuracy**, identifying BMI, age, and hypertension as key predictors.  
-📊 [View Notebook] ()
+📊 [View Notebook] (https://github.com/srinivasjambi1/srinivasjambi1/blob/main/R_Project_FINAL.nb.html)
 
 ---
 
@@ -38,7 +38,7 @@ Applied multiple supervised learning algorithms to predict heart disease using c
 #### **4️⃣ High Performance Computing Project – Hospital Financial Performance & Cost Efficiency**  
 **Tools:** R, Dask, Random Forest, Genetic Algorithm, Parallelization  
 Used HPC techniques to analyze large-scale hospital cost-report data. Dask parallelization reduced model training time by ~60% while maintaining ~70% accuracy. Identified **Cost-to-Charge Ratio** as the most critical financial metric.  
-⚙️ *Based on slides: HPC_FINAL_PRESENTATION1.pptx*
+
 
 ---
 
@@ -58,7 +58,7 @@ Completed a 3-level SQL progression under the National Student Data Corps (NSDC)
 
 #### **Microsoft Excel Certification**  
 **Course:** *Introduction to MS Excel (Microsoft)*  
-📅 *Date:* April 9, 2025 | *Certificate Code:* 8163428
+
 
 ---
 
@@ -73,7 +73,7 @@ Conducted survey-based analysis exploring how remote-work frequency correlates w
 #### **7️⃣ Capstone Project – Mental Health Outcome Prediction (BRFSS 2022)**  
 **Tools:** Python, Pandas, Scikit-learn, Matplotlib  
 Developed predictive models to analyze mental health outcomes using CDC’s BRFSS 2022 dataset. Applied EDA, feature selection, and classification models (Logistic Regression, Random Forest) to identify behavioral and demographic predictors.  
-📘 [View Notebook](https://colab.research.google.com/drive/1hdGMUrO_S8w9Z81pWo_27SKas9r0MtBz)
+📘 [View Notebook]()
 
 ---
 
@@ -89,7 +89,7 @@ Developed predictive models to analyze mental health outcomes using CDC’s BRFS
 Thanks for visiting my GitHub!  
 I’m open to collaborations, professional networking, and data-driven discussions.  
 📬 **LinkedIn:** [linkedin.com/in/srinivasjambi](https://linkedin.com/in/srinivasjambi)  
-📧 **Email:** srinivasjambi@gmail.com  
+📧 **Email:** jambisrinivas0398@gmail.com  
 🌐 **Portfolio (Coming Soon):** SJ_Portfolio — a showcase of projects, dashboards, and publications.
 
 ---
