@@ -24,7 +24,7 @@ Performed exploratory data analysis (EDA) on a clinical diabetes dataset to unco
 #### **2️⃣ R Project – Diabetes Risk Factor Analysis**  
 **Tools:** R, ggplot2, dplyr, Logistic Regression, ANOVA, PCA  
 Investigated how demographic, lifestyle, and health indicators interact to predict diabetes risk. Achieved **96% model accuracy**, identifying BMI, age, and hypertension as key predictors.  
-📊 *Based on slides: R_Project.pptx*
+📊 [View Notebook] ()
 
 ---
 
