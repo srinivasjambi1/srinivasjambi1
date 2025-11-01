@@ -17,7 +17,7 @@ I’m currently expanding my professional portfolio in **healthcare data science
 #### **1️⃣ Python Project – Diabetes Data Analysis**  
 **Tools:** Python, Pandas, Seaborn, NumPy  
 Performed exploratory data analysis (EDA) on a clinical diabetes dataset to uncover relationships between blood glucose, BMI, and lifestyle indicators. Developed visualizations and correlation matrices to support public health interpretations.  
-👉 [View Notebook](https://colab.research.google.com/drive/1GFqXtxrJP5zg8xA419mc-lXngL5kFuv0#scrollTo=5da88068)
+👉 [View Notebook](https://colab.research.google.com/drive/1GFqXtxrJP5zg8xA419mc-lXngL5kFuv0#scrollTo=6e0f640a)
 
 ---
 
